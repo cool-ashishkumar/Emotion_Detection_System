@@ -1,0 +1,8 @@
+!pip install opencv-python
+!pip install tensorflow
+!pip install keras
+!pip install matplotlib
+!pip install numpy
+!pip install pandas
+!pip install scikit-learn
+!pip install mediapipe
