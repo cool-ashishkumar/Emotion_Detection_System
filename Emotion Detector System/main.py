@@ -13,7 +13,7 @@ emotion_colors = {
     'Angry': (0, 0, 255),  # Red
     'Disgust': (0, 255, 255),  # Dark Green
     'Fear': (128, 0, 128),  # Purple
-    'Happy': (15, 255, 80),  # green
+    'Happy': (15, 255, 80),  # 
     'Sad': (255, 0, 0),  # Blue
     'Surprise': (255, 165, 0),  # Orange
     'Neutral': (128, 128, 128)  # Gray
